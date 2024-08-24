@@ -1,0 +1,5 @@
+npm install -g less-watch-compiler
+
+or
+
+npm i -g less-watch-compiler
